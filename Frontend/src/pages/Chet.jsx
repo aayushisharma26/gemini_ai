@@ -1,12 +1,12 @@
 import React from "react";
 
-const CareerGuide = () => {
+const Chet = () => {
   return (
     <div className="content">
-      <h1>CareerGuide</h1>
+      <h1>Chet Start</h1>
       <p>Play Chess with AI.</p>
     </div>
   );
 };
 
-export default CareerGuide;
+export default Chet;
