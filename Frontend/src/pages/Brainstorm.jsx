@@ -59,9 +59,6 @@ function Brainstorm() {
           <div className="chess-option">What are some fun picnic ideas for kids?</div>
         </div>
       </div>
-      <div className="Input">
-        <input type="text" placeholder="Enter a prompt for Gemini" />
-      </div>
     </>
   );
 }

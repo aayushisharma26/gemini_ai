@@ -58,9 +58,6 @@ function CareerGuide() {
           <div className="chess-option">Give me advice on how to find a mentor.</div>
         </div>
       </div>
-      <div className="Input">
-        <input type="text" placeholder="Enter a prompt for Gemini" />
-      </div>
     </>
   );
 }
