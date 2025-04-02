@@ -5,7 +5,7 @@ import "./Sidebar.css";
 const Sidebar = () => {
   return (
     <div className="sidebar">
-        <h2>New Chat</h2>
+      <h2>New Chat</h2>
       <ul>
         <li><Link to="/Chet">New Chat</Link></li>
       </ul>
@@ -16,17 +16,15 @@ const Sidebar = () => {
       </ul>
 
       <h2>Gems</h2>
-
       <ul>
         <li><Link to="/chess">♟ Chess Champ</Link></li>
-        <li><Link to="/brainstorm">💡 Brainstormer</Link></li>
+        <li><Link to="/brainstorm">💡 Brainstormer</Link></li> {/* Fixed path */}
         <li><Link to="/CareerGuide">📌 Career Guide</Link></li>
         <li><Link to="/CodingPartner">💻 Coding Partner</Link></li>
         <li><Link to="/WritingEditor">✍ Writing Editor</Link></li>
       </ul>
 
-
-      <ul >
+      <ul>
         <li><Link to="/gem-manager">⚙ Gem Manager</Link></li>
         <li><Link to="/help">❓ Help</Link></li>
         <li><Link to="/activity">📝 Activity</Link></li>
@@ -37,8 +35,3 @@ const Sidebar = () => {
 };
 
 export default Sidebar;
-
-
-
-
-

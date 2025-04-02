@@ -10,9 +10,3 @@ const Chet = () => {
 };
 
 export default Chet;
-
-
-
-
-
-
