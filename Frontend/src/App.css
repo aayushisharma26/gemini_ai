@@ -1,58 +1,15 @@
-.chess-container {
+.app-container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .main-content {
+    flex-grow: 1;
     padding: 20px;
-    font-family: Arial, sans-serif;
-}
-.chess-header {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    padding-bottom: 20px;
-    margin-left: 150px;
-}
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
 
-.chess-icon {
-    width: 50px;
-    height: 50px;
-}
-
-.chess-title h1 {
-    font-size: 24px;
-    margin: 0;
-}
-
-.chess-title p {
-    font-size: 14px;
-    color: gray;
-    margin: 5px 0 0;
-}
-.chess-options {
-    display: flex;
-    gap: 10px;
-    flex-wrap: wrap;
-    padding-bottom: 20px;
-    margin-left: 10rem;
-    padding-left: 5rem;
-    
-}
-
-.chess-option {
-    background-color: #f1f3f4;
-    padding: 15px;
-    border-radius: 10px;
-    width: 150px;
-    font-size: 14px;
-    height: 150px;
-}
-.chess-footer {
-    font-size: 14px;
-    color: gray;
-    background-color: #f1f3f4;
-    border-radius: 10px;
-    height: 50px;
-    width: 75%;
-    text-align: center;
-    margin-left: 250px;
-
-
-}
