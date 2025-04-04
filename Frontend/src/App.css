@@ -13,3 +13,60 @@
     padding: 20px;
   }
   
+
+
+  /* Light Mode */
+/* .light-mode {
+  background-color: white;
+  color: black;
+}
+
+.light-mode .main-content {
+  background-color: #ffffff;
+  color: black;
+} */
+
+/* Dark Mode */
+/* .dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+.dark-mode .main-content {
+  background-color: #181818;
+  color: white;
+} */
+
+/* Sidebar will not change */
+/* .fixed-sidebar {
+  background-color: #f4f4f4; 
+  color: black;
+  width: 250px;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  padding: 20px;
+}
+
+.fixed-sidebar h2 {
+  color: black;
+}
+
+.fixed-sidebar a {
+  color: black;
+  text-decoration: none;
+}
+
+.fixed-sidebar .setting-btn {
+  background-color: #ddd;
+  color: black;
+  border: 1px solid #aaa;
+} */
+
+/* Dark Mode Buttons */
+/* .dark-mode button {
+  background-color: #333;
+  color: white;
+  border: 1px solid #555;
+} */
