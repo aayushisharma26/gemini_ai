@@ -26,9 +26,12 @@ function Chess() {
                         Experiments may have unexpected results. Share your feedback with the thumbs up/down button. Learn more.
                     </p>
                 </div>
+                
             </div>
         </>
     );
 }
 
 export default Chess;
+
+

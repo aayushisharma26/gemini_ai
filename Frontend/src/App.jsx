@@ -50,7 +50,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import ThemeProvider, { ThemeContext } from "./pages/Theme";
 import Sidebar from "./Component/Sidebar";
 import Chess from "./pages/Chess";
-import Brainstorm from "./pages/Brainstorm";
+import Brainstorm from "../src/pages/Brainstorm.jsx";
 import CareerGuide from "./pages/CareerGuide";
 import CodingPartner from "./pages/CodingPartner";
 import WritingEditor from "./pages/WritingEditor";

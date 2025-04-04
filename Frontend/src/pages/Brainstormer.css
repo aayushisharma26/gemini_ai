@@ -1,0 +1,71 @@
+.model-select{
+    border: none;
+    width: 20px;
+  }
+  .dropdown-section{
+    display: flex;
+  }
+  .app-button{
+    height: 10px;
+    width: 10px;
+    padding-top: 30px;
+    padding-left: 10px;
+  }
+  .brainstormer-container{
+    gap: 50rem;
+    display: flex;
+    justify-content: space-around;
+  }
+  .advanced-section{
+    display: flex;
+  }
+  .model-select{
+    padding-top: 20px;
+  }
+  .Chess_main {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 20px;
+  }
+  
+  .Chess_main img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .Chess_main h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .Chess_main p {
+    font-size: 14px;
+    color: gray;
+  }
+  
+  .Chess_options {
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+  }
+  
+  .Chess_options div {
+    background-color: #f1f3f4;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+  }
+  
+  .Chess_footer {
+    padding: 20px;
+    font-size: 14px;
+    color: gray;
+  }
+  .Input input{
+    height: 7rem;
+    width: 45rem;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-left: 150px;
+}
