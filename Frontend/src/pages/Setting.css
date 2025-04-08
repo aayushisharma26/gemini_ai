@@ -1,0 +1,28 @@
+
+
+   body {
+    background-color: white;
+    color: black;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  body.dark {
+    background-color: #121212;
+    color: white;
+  }
+  
+  .toggle-btn {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: #ddd;
+    margin: 20px;
+  }
+  
+  body.dark .toggle-btn {
+    background-color: #333;
+    color: white;
+  }
+  
